@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'DK The Cats Whiskers Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('DK The Cats Whiskers Regular'), url('DK The Cats Whiskers.woff') format('woff');
+}
+
+h1 {
+    font-family: 'DK The Cats Whiskers Regular';
+    font-weight: 200;
+    color:black
+}
