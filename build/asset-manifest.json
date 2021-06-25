@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/robofriendsv3/static/css/main.c9e76871.chunk.css",
+    "main.js": "/robofriendsv3/static/js/main.1258216c.chunk.js",
+    "main.js.map": "/robofriendsv3/static/js/main.1258216c.chunk.js.map",
+    "runtime-main.js": "/robofriendsv3/static/js/runtime-main.f43a762e.js",
+    "runtime-main.js.map": "/robofriendsv3/static/js/runtime-main.f43a762e.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/robofriendsv3/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.db7782eb.chunk.js": "/robofriendsv3/static/js/2.db7782eb.chunk.js",
+    "static/js/2.db7782eb.chunk.js.map": "/robofriendsv3/static/js/2.db7782eb.chunk.js.map",
+    "static/js/3.91a0c869.chunk.js": "/robofriendsv3/static/js/3.91a0c869.chunk.js",
+    "static/js/3.91a0c869.chunk.js.map": "/robofriendsv3/static/js/3.91a0c869.chunk.js.map",
+    "index.html": "/robofriendsv3/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/robofriendsv3/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.c9e76871.chunk.css.map": "/robofriendsv3/static/css/main.c9e76871.chunk.css.map",
+    "static/js/2.db7782eb.chunk.js.LICENSE.txt": "/robofriendsv3/static/js/2.db7782eb.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robofriendsv3/static/media/DK The Cats Whiskers.a3a64ae7.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f43a762e.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.db7782eb.chunk.js",
+    "static/css/main.c9e76871.chunk.css",
+    "static/js/main.1258216c.chunk.js"
+  ]
+}
